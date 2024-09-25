@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  UnitTest.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1391,5): warning MSB8012: TargetPath(C:\Users\Chloey\OneDrive - Seneca\school\sem-2\SFT\SFT221\W3\Week 3\Week 3\Week 3\x64\Debug\UnitTest.dll) does not match the Linker's OutputFile property value (). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+MainProj.obj : fatal error LNK1107: invalid or corrupt file: cannot read at 0x3F8
